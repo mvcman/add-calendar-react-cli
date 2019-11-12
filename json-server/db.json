@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "calendarId": null,
+      "eventId": null,
+      "title": "M1",
+      "startDate": "2019-11-21 06:00",
+      "endDate": "2019-11-28 06:00",
+      "id": 1
+    },
+    {
+      "calendarId": null,
+      "eventId": null,
+      "title": "M2",
+      "startDate": "2019-11-12 14:15",
+      "endDate": "2019-11-12 14:25",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "calendarId": "97",
+      "eventId": "354",
+      "title": "Meeto demo 123",
+      "startDate": 1573647300000,
+      "endDate": 1573647900000
+    }
+  ]
+}
